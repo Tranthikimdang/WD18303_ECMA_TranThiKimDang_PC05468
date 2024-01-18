@@ -1,0 +1,29 @@
+{
+    "categories": {
+        "id": 1,
+        "name": ""
+    },
+    "order_details": {
+        "order_id": "",
+        "product_id": "",
+        "quantity": "",
+        "unit_price": ""
+    },
+    "orders": {
+        "created_date": "",
+        "customer_address": "",
+        "customer_email": "",
+        "customer_name": "",
+        "customer_phone_number": "",
+        "id": 1,
+        "status": ""
+    },
+    "products": {
+        "cate_id": "",
+        "detail": "",
+        "id": 1,
+        "image": "",
+        "name": "",
+        "price": ""
+    }
+}
