@@ -15,7 +15,7 @@ function showPro() {
             <td>${item.description}</td>
             <td>
                 <button onclick="openEditPage(${item.id})">Sửa</button>
-                <button>Xóa</button>
+                <button onclick="deletePro(${item.id})">Xóa</button>
             </td>
         </tr>
         `
@@ -136,5 +136,10 @@ function editPro(id) {
     }
     data = data.map(item => item.id == id ? pro : item)
     editModal.style.display = 'none';
+    showPro();
+}
+// Xóa sản phẩm 
+function deletePro(id) {
+    data = data.filter(item => item.id != id)
     showPro();
 }
