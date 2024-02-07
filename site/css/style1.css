@@ -1,0 +1,179 @@
+/* Reset CSS */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+/* Bo
+/* Container */
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+/* Box Left */
+.boxleft {
+    width: 25%;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.boxleft a {
+    display: block;
+    padding: 10px 0;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.boxleft a:hover {
+    color: #4a90e2;
+}
+
+/* Box Right */
+.boxright {
+    width: 70%;
+}
+
+.containerfull {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col6 {
+    width: 48%;
+}
+
+.imgchitiet img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.textchitiet {
+    padding: 20px;
+}
+
+.textchitiet h2 {
+    margin-bottom: 10px;
+}
+
+.textchitiet p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.textchitiet button {
+    background-color: #4a90e2;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.textchitiet button:hover {
+    opacity: 0.8;
+}
+
+/* Sản phẩm liên quan */
+.box25 {
+    width: 23%;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.box25 img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.price {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    width: 23%;
+}
+
+.form-sale input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.form-sale button {
+    background-color: #4a90e2;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-sale button:hover {
+    opacity: 0.8;
+}
+
+/* Social media icons */
+.footer img {
+    width: 100%;
+    max-width: 150px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/* Responsive Design */
+@media only screen and (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .boxleft,
+    .boxright {
+        width: 100%;
+    }
+
+    .boxleft {
+        margin-bottom: 20px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .navbar a {
+        margin: 10px 0;
+    }
+}

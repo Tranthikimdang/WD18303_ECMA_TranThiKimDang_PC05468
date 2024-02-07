@@ -1,0 +1,613 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "TCL Google TV 58P635",
+      "image": "tivi1.jpeg",
+      "price": "10490000",
+      "sale": "9990000",
+      "category": "tủ lạnh",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời. Tích hợp hệ điều hành Google TV với giao diện trực quan, dễ sử dụng cùng kho ứng dụng giải trí đa dạng, phong phú. "
+    },
+    {
+      "id": "2",
+      "name": "LG Smart TV 55UQ8000PSC",
+      "image": "tivi2.jpeg",
+      "price": "12990000",
+      "sale": "11990000",
+      "category": "Tivi",
+      "hotdeal": 0,
+      "star": 5,
+      "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời. Tích hợp hệ điều hành Google TV với giao diện trực quan, dễ sử dụng cùng kho ứng dụng giải trí đa dạng, phong phú. "
+    },
+    {
+      "id": "3",
+      "name": "Casper Android TV 32HG5200",
+      "category": "Tivi",
+      "price": 6990000,
+      "sale": 5990000,
+      "image": "tivi3.jpeg",
+      "hotdeal": 1,
+      "star": 3,
+      "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời. Tích hợp hệ điều hành Google TV với giao diện trực quan, dễ sử dụng cùng kho ứng dụng giải trí đa dạng, phong phú. "
+    },
+    {
+      "id": "4",
+      "name": "Samsung Smart TV UA43AU7002",
+      "category": "Tivi",
+      "price": 15990000,
+      "sale": 13990000,
+      "image": "tivi4.jpeg",
+      "hotdeal": 0,
+      "star": 4.5,
+      "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời. Tích hợp hệ điều hành Google TV với giao diện trực quan, dễ sử dụng cùng kho ứng dụng giải trí đa dạng, phong phú. "
+    },
+    {
+      "id": "5",
+      "name": "Samsung Smart TV Crystal UHD UA65AU8100",
+      "category": "Tivi",
+      "price": 8990000,
+      "sale": 6890000,
+      "image": "tivi5.jpeg",
+      "hotdeal": 0,
+      "star": 5,
+      "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời. Tích hợp hệ điều hành Google TV với giao diện trực quan, dễ sử dụng cùng kho ứng dụng giải trí đa dạng, phong phú. "
+    },
+    {
+      "id": "6",
+      "name": "LG Smart TV NanoCell 65NANO76SQA",
+      "category": "Tivi",
+      "price": 7990000,
+      "sale": 6990000,
+      "image": "tivi6.jpeg",
+      "hotdeal": 0,
+      "star": 3.5,
+      "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời. Tích hợp hệ điều hành Google TV với giao diện trực quan, dễ sử dụng cùng kho ứng dụng giải trí đa dạng, phong phú. "
+    },
+    {
+      "id": "7",
+      "name": "Aqua 130 lít AQR-T150FA(BS)",
+      "category": "tủ lạnh",
+      "price": 4990000,
+      "sale": 3990000,
+      "image": "tulanh1.jpeg",
+      "hotdeal": 0,
+      "star": 5,
+      "description": "Thuộc dòng tủ lạnh side by side được trang bị công nghệ Smart Inverter giúp tiết kiệm điện năng. Bên cạnh đó, công nghệ làm lạnh đa chiều mang hơi lạnh lan tỏa khắp các ngăn."
+    },
+    {
+      "id": "8",
+      "name": "Aqua Inverter 347 lít AQR-T400FA(WFB) ",
+      "category": "tủ lạnh",
+      "price": 6590000,
+      "sale": 6290000,
+      "image": "tulanh2.jpeg",
+      "hotdeal": 1,
+      "star": 3,
+      "description": "Thuộc dòng tủ lạnh side by side được trang bị công nghệ Smart Inverter giúp tiết kiệm điện năng. Bên cạnh đó, công nghệ làm lạnh đa chiều mang hơi lạnh lan tỏa khắp các ngăn."
+    },
+    {
+      "id": "9",
+      "name": "Samsung Inverter 382 lít RT38CG6584B1SV ",
+      "category": "tủ lạnh",
+      "price": 7990000,
+      "sale": 6990000,
+      "image": "tulanh3.jpeg",
+      "hotdeal": 0,
+      "star": 5,
+      "description": "Thuộc dòng tủ lạnh side by side được trang bị công nghệ Smart Inverter giúp tiết kiệm điện năng. Bên cạnh đó, công nghệ làm lạnh đa chiều mang hơi lạnh lan tỏa khắp các ngăn."
+    },
+    {
+      "id": "10",
+      "name": "Samsung Inverter 208 lít RT20HAR8DBU/SV",
+      "category": "tủ lạnh",
+      "price": 8990000,
+      "sale": 5990000,
+      "image": "tulanh4.jpeg",
+      "hotdeal": 1,
+      "star": 4,
+      "description": "Thuộc dòng tủ lạnh side by side được trang bị công nghệ Smart Inverter giúp tiết kiệm điện năng. Bên cạnh đó, công nghệ làm lạnh đa chiều mang hơi lạnh lan tỏa khắp các ngăn."
+    },
+    {
+      "id": "7d7e",
+      "name": "Tủ lạnh Aqua Inverter 541 lít Side By Side AQR-S541XA(BL) ",
+      "image": "tu-lanh-aqua-aqr-s541xa-bl-14-300x300.jpg",
+      "price": "15990000",
+      "sale": "12990000",
+      "category": "tủ lạnh",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Aqua Inverter 541 lít AQR-S541XA(BL) thuộc kiểu tủ lạnh side by side đáp ứng cho nhu cầu lưu trữ thực phẩm nhiều cùng với chất liệu cửa tủ làm bằng chất liệu thép kháng khuẩn, nhằm tránh nấm mốc và vi khuẩn tích tụ, góp phần bảo vệ sức khỏe người dùng và tăng độ bền cho sản phẩm. "
+    }
+  ],
+  "appliances": [
+    {
+      "id": "1",
+      "name": "Máy lọc nước RO inverter nóng nguội lạnh Sanaky",
+      "image": "giadung2.jpg",
+      "price": "12790000",
+      "sale": "5990000",
+      "category": "gia dụng",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Chế độ cút nối nhanh dễ dàng thay lõi, Có 2 vòi nóng lạnh,Giàu Hydrogen chống oxy hóaMáy nén, Inverter tiết kiệm điện, Ngừng hoạt động khi nước đầy bình, Ngừng hoạt động khi áp lực nước thấpTrung hòa độ pH ổn định độ ngọt cho nướcTạo nước kiềm (Alkaline) trung hòa axit cho cơ thể, Tự động xả nước thải. "
+    },
+    {
+      "id": "2",
+      "name": "Lò vi sóng có nướng Sharp R-G222VN-S 20 lít",
+      "image": "giadung3.jpg",
+      "price": "2450000",
+      "sale": "1495000",
+      "category": "gia dụng",
+      "hotdeal": 0,
+      "star": 3,
+      "description": "Lò vi sóng Sharp nhỏ gọn, lắp đặt ở mọi vị trí mà không chiếm nhiều diện tích, lò có dây điện dài lên đến 90 cm, giúp kết nối ổ cắm thuận tiện hơn."
+    },
+    {
+      "id": "3",
+      "name": "Nồi chiên không dầu Rapido SMART-7.0M 7 lít",
+      "image": "giadung1.jpg",
+      "price": "2490000",
+      "sale": "1090000",
+      "category": "gia dụng",
+      "hotdeal": 0,
+      "star": 2,
+      "description": "Lò vi sóng Sharp nhỏ gọn, lắp đặt ở mọi vị trí mà không chiếm nhiều diện tích, lò có dây điện dài lên đến 90 cm, giúp kết nối ổ cắm thuận tiện hơn."
+    },
+    {
+      "id": "4",
+      "name": "Nồi cơm nắp gài Delites 1.8 lít NCG1805",
+      "image": "giadung4.jpg",
+      "price": "650000",
+      "sale": "350000",
+      "category": "gia dụng",
+      "hotdeal": 0,
+      "star": 3,
+      "description": "Nồi cơm điện Delites với mẫu mã trẻ trung rất phù hợp nhiều sở thích người dùng, Nồi được thiết kế theo kiểu nắp gài, tránh tình trạng nước trào ra bên ngoài, an toàn tuyệt đối trong quá trình sử dụng.."
+    },
+    {
+      "id": "5",
+      "name": "Máy làm sữa hạt đa năng BlueStone BLB-6031",
+      "image": "giadung5.jpg",
+      "price": "2599000",
+      "sale": "1790000",
+      "category": "gia dụng",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "Máy làm sữa hạt đa năng BlueStone BLB-6031 thiết kế sang trọng, sử dụng tiện lợi với 9 chương trình cài đặt sẵn, chế biến nhanh chóng với công suất xay 800W, nấu 800W, đa dạng tiện ích phục vụ tốt đa dạng các nhu cầu của người dùng."
+    }
+  ],
+  "phone": [
+    {
+      "id": "1",
+      "name": "Điện thoại vivo Y22s 8GB ",
+      "image": "phone1.jpg",
+      "price": "5990000",
+      "sale": "5090000",
+      "category": "điện thoại",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "vivo Y22s - chiếc điện thoại từ nhà vivo được trình làng vào tháng 08/2022 với một mức giá lý tưởng, máy trang bị một màn hình lớn cùng con chip có hiệu năng ổn định. Hứa hẹn sẽ là cái tên để lại nhiều dấu ấn cho người dùng."
+    },
+    {
+      "id": "2",
+      "name": "Xiaomi 13T 5G 8GB",
+      "image": "phone2.jpg",
+      "price": "11960000",
+      "sale": "9590000",
+      "category": "điện thoại",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Lò vi sóng Sharp nhỏ gọn, lắp đặt ở mọi vị trí mà không chiếm nhiều diện tích, lò có dây điện dài lên đến 90 cm, giúp kết nối ổ cắm thuận tiện hơn."
+    },
+    {
+      "id": "3",
+      "name": "Xiaomi 13T 5G 12GB",
+      "image": "phone3.jpg",
+      "price": "12950000",
+      "sale": "10900000",
+      "category": "điện thoại",
+      "hotdeal": 0,
+      "star": 3,
+      "description": "Xiaomi 13T 5G 12GB được nhà Xiaomi giới thiệu chính thức tại thị trường Việt Nam vào tháng 09/2023. Phiên bản lần này có sự tham gia sản xuất máy ảnh với Leica, theo đó là con chip khủng Dimensity 8200-Ultra và sạc nhanh 67 W ấn tượng."
+    },
+    {
+      "id": "4",
+      "name": "Nồi cơm nắp gài Delites 1.8 lít NCG1805",
+      "image": "phone4.jpg",
+      "price": "10850000",
+      "sale": "9850000",
+      "category": "điện thoại",
+      "hotdeal": 0,
+      "star": 2,
+      "description": "OPPO Reno10 5G là một trong số những chiếc smartphone của OPPO được nhiều người tin dùng đón nhận, không chỉ có thiết kế ngoại hình bắt mắt mà còn sở hữu hiệu năng ổn định. Đặc biệt, khả năng nhiếp ảnh của nó vượt trội, đáp ứng mượt mà hầu hết các nhu cầu của người dùng."
+    },
+    {
+      "id": "5",
+      "name": "Samsung Galaxy S23 Ultra 5G 512GB",
+      "image": "phone5.jpg",
+      "price": "36500000",
+      "sale": "26590000",
+      "category": "điện thoại",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "Cứ vào mỗi dịp đầu năm thì giới công nghệ lại dần trở nên náo nhiệt bởi sự xuất hiện của hàng loạt các mẫu flagship được những ông lớn liên tục ra mắt, trong đó Samsung Galaxy S23 Ultra 5G 512GB chính là cái tên mở đầu cho năm 2023 được nhà Samsung phát hành vào rạng sáng ngày 02/02. Máy hiện đang là tâm điểm tại thời điểm ra mắt khi được trang bị con chip Snapdragon 8 Gen 2 for Galaxy cùng camera có độ phân giải tới 200 MP."
+    }
+  ],
+  "laptop": [
+    {
+      "id": "1",
+      "name": "Asus Vivobook X1404ZA i3 1215U (NK246W)",
+      "image": "laptop1.jpg",
+      "price": "11990000",
+      "sale": "9990000",
+      "category": "laptop",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Laptop Asus Vivobook X1404ZA i3 1215U (NK246W) dành cho học tập và công việc văn phòng là một sự kết hợp hoàn hảo giữa hiệu suất ổn định và thiết kế di động. Với bộ vi xử lý từ dòng chip thế hệ thứ 12, sản phẩm này sẽ phục vụ tốt các tác vụ văn phòng và giải trí nhẹ nhàng."
+    },
+    {
+      "id": "2",
+      "name": "MacBook Air 13 inch M1 2020 7-core GPU",
+      "image": "laptop2.jpg",
+      "price": "19960000",
+      "sale": "18490000",
+      "category": "laptop",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "MacBook Air M1 2020 sở hữu thiết kế sang trọng nhỏ gọn có thể dễ dàng mang theo bên mình. Cấu hình máy với hiệu năng xử lý nhanh, đạt hiệu quả cao với chip Apple M1 mới, sẽ là trợ thủ đắc lực hỗ trợ bạn tốt trong mọi công việc."
+    },
+    {
+      "id": "3",
+      "name": "MacBook Pro 14 inch M3 Max 2023 14-core CPU",
+      "image": "laptop3.jpg",
+      "price": "79950000",
+      "sale": "77850000",
+      "category": "laptop",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Macbook Pro M3 Max 14 inch 36 GB một sản phẩm đỉnh cao của laptop hiện đại, đang gây tiếng vang trong thế giới máy tính với hiệu năng và tích hợp tài nguyên không giới hạn. Với nhiều lõi CPU và GPU mạnh mẽ hơn bất kỳ sản phẩm nào, bộ nhớ thống nhất rộng lớn, chip M3 Max thách thức mọi giới hạn về hiệu suất và khả năng cho các nhiệm vụ đòi hỏi cao."
+    },
+    {
+      "id": "4",
+      "name": "MacBook Air 13 inch M2 2022 8-core GPU",
+      "image": "laptop4.jpg",
+      "price": "27390000",
+      "sale": "25850000",
+      "category": "laptop",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "Tiên phong tạo ra những sản phẩm laptop mỏng nhẹ, hiệu năng mạnh mẽ cân mọi tác vụ hằng ngày, Apple đã trình làng Macbook Air M2 mang những cải tiến đáp ứng cho người dùng yêu thích sự linh động, thanh mảnh cùng cấu hình vượt trội hứa hẹn sẽ trở thành laptop đáng mua nhất 2022."
+    },
+    {
+      "id": "5",
+      "name": "Asus TUF Gaming F15 FX507ZC4 i5 12500H (HN229W)",
+      "image": "laptop5.jpg",
+      "price": "25900000",
+      "sale": "21590000",
+      "category": "laptop",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Laptop Asus TUF Gaming F15 FX507ZC4 i5 12500H (HN229W) là một dòng laptop gaming được ưa chuộng hàng đầu ở nhà Asus với hiệu năng mạnh mẽ và thiết kế đẹp mắt sẽ là sự lựa chọn hàng đầu cho những người đam mê gaming và công việc đòi hỏi tài nguyên cao."
+    }
+  ],
+  "accessory": [
+    {
+      "id": "1",
+      "name": "Camera IP 360 Độ 3MP TP-Link Tapo C210",
+      "image": "phukien1.jpg",
+      "price": "690000",
+      "sale": "630000",
+      "category": "phụ kiện",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "Thiết kế tròn trĩnh, sang trọng với gam màu trắng tươi sáng. Kiểu dáng camera gọn chắc, chân đế phẳng dễ dàng cho việc lắp đặt ở nhiều vị trí từ để bàn, kệ đến gắn tường, trần."
+    },
+    {
+      "id": "2",
+      "name": "Bàn Phím Cơ Có Dây Gaming Silent Razer BlackWidow Lite",
+      "image": "phukien2.jpeg",
+      "price": "2390000",
+      "sale": "1200000",
+      "category": "phụ kiện",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "Razer BlackWidow Lite Silent thiết kế dạng tenkeyless gọn gàng, kiểu dáng gaming cá tính, đẹp mắt. Bạn dễ dàng sử dụng nó như bàn phím rời thay thế cho hệ phím của laptop để thao tác soạn thảo hay chiến game chuẩn xác hơn, nhạy hơn và đã tay hơn."
+    },
+    {
+      "id": "3",
+      "name": "Tai nghe Bluetooth AirPods 2 Lightning Charge Apple MV7N2",
+      "image": "phukien3.jpg",
+      "price": "3490000",
+      "sale": "2650000",
+      "category": "phụ kiện",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "Tai nghe Bluetooth AirPods 2 Lightning Charge Apple MV7N2 vẫn giữ cho mình thiết kế hiện đại, cao cấp, hợp thời trang."
+    },
+    {
+      "id": "4",
+      "name": "Chuột Không dây A4Tech FG20",
+      "image": "phukien4.jpg",
+      "price": "25000",
+      "sale": "200000",
+      "category": "phụ kiện",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Chuột không dây A4Tech FG20 với thiết kế gọn nhẹ, khối lượng 62 gam, bạn hoàn toàn có thể làm việc trong thời gian dài mà không lo tình trạng mỏi tay."
+    },
+    {
+      "id": "5",
+      "name": "Ốp lưng MagSafe iPhone 14 Nhựa cứng viền dẻo SwitchEasy MagEasy Atom M Chính hãng",
+      "image": "phukien5.jpg",
+      "price": "700000",
+      "sale": "560000",
+      "category": "phụ kiện",
+      "hotdeal": 0,
+      "star": 2,
+      "description": "Ốp lưng trong suốt trông rất đơn giản nhưng sẽ làm cho chiếc điện thoại thêm phần nổi bật."
+    }
+  ],
+  "smartwatch": [
+    {
+      "id": "1",
+      "name": "Camera IP 360 Độ 3MP TP-Link Tapo C210",
+      "image": "donghothongminh1.jpg",
+      "price": "1890000",
+      "sale": "980000",
+      "category": "Đồng hồ thông minh",
+      "hotdeal": 0,
+      "star": 3,
+      "description": "Kể từ khi ra mắt Amazfit Bip 3 đã gây được ấn tượng với nhiều người dùng từ thiết kế bên ngoài đến hiệu năng bên trong. Thiết bị này sẵn sàng đồng hành cùng bạn ở bất kỳ đâu với thời lượng pin dài, khả năng kháng nước tốt."
+    },
+    {
+      "id": "2",
+      "name": "Đồng hồ thông minh BeFit WatchS 45mm dây silicone",
+      "image": "donghothongminh2.jpg",
+      "price": "1490000",
+      "sale": "995000",
+      "category": "đồng hồ thông minh",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Đồng hồ thông minh BeFit WatchS 45mm gây ấn tượng mạnh mẽ với thiết kế thời thượng, sang trọng, mang đậm dấu ấn cá nhân. Đồng hồ được trang bị nhiều chế độ thể thao đa dạng, giúp người dùng theo dõi sức khỏe và tập luyện hiệu quả hơn."
+    },
+    {
+      "id": "3",
+      "name": "Đồng hồ thông minh BeFit Watch Ultra 52.6mm",
+      "image": "donghothongminh3.jpg",
+      "price": "1490000",
+      "sale": "890000",
+      "category": "đồng hồ thông minh",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Tai nghe Bluetooth AirPods 2 Lightning Charge Apple MV7N2 vẫn giữ cho mình thiết kế hiện đại, cao cấp, hợp thời trang."
+    },
+    {
+      "id": "4",
+      "name": "Đồng hồ thông minh Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Alpine size S ",
+      "image": "donghothongminh4.jpg",
+      "price": "21990000",
+      "sale": "2149000",
+      "category": "đồng hồ thông minh",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "Tại sự kiện Wonderlust Apple đã giới thiệu đến người dùng toàn cầu các thế hệ smartwatch mới. Trong đó phải nhắc đến sản phẩm Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Alpine size S với kiểu dáng thể thao, thời thượng cùng các chức năng thông minh về sức khỏe và luyện tập đi cùng con chip và hệ điều hành mới."
+    },
+    {
+      "id": "5",
+      "name": "Ốp lưng MagSafe iPhone 14 Nhựa cứng viền dẻo SwitchEasy MagEasy Atom M Chính hãng",
+      "image": "donghothongminh5.jpg",
+      "price": "11790000",
+      "sale": "11280000",
+      "category": "đồng hồ thông minh",
+      "hotdeal": 0,
+      "star": 3,
+      "description": "Với thiết kế thời thượng, hiệu năng mạnh mẽ, màn hình sáng ấn tượng, hỗ trợ thao tác mới giúp người dùng trải nghiệm thiết bị không chạm vào màn hình cùng nhiều tính năng sức khỏe, an toàn hữu ích khác. Apple Watch Series 9 GPS 45mm viền nhôm dây vải đang là một trong những sản phẩm smartwatch 2023 đáng sắm nhất hiện nay."
+    }
+  ],
+  "fashionwatch": [
+    {
+      "id": "1",
+      "name": "ELIO 30 mm Nữ EC011-02",
+      "image": "donghothoitrang1.jpg",
+      "price": "1190000",
+      "sale": "330000",
+      "category": "phụ kiện",
+      "hotdeal": 0,
+      "star": 3,
+      "description": "Thuộc thương hiệu cao cấp Elio đến từ Việt Nam – thương hiệu độc quyền của Thế giới di động. Sự đa dạng trong kiểu dáng, mẫu mã cùng chất lượng dịch vụ tuyệt vời, đồng hồ Elio luôn làm hài lòng những khách hàng khó tính nhất."
+    },
+    {
+      "id": "2",
+      "name": "MVW 39.6 mm Nam MS078-01",
+      "image": "donghothoitrang2.jpeg",
+      "price": "2100000",
+      "sale": "1989000",
+      "category": "phụ kiện",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "Sản phẩm đồng hồ mang thương hiệu MVW với nhiều mẫu mã năng động, trẻ trung nhưng không kém phần tinh tế và sang trọng, phù hợp với tất cả mọi người hoạt động ở nhiều lĩnh vực từ dân văn phòng đến doanh nhân."
+    },
+    {
+      "id": "3",
+      "name": "Đồng hồ MVW 40 mm Nam ML035-01",
+      "image": "donghothoitrang3.jpg",
+      "price": "1590000",
+      "sale": "490000",
+      "category": "phụ kiện",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Sản phẩm đồng hồ mang thương hiệu MVW với nhiều mẫu mã năng động, trẻ trung nhưng không kém phần tinh tế và sang trọng, phù hợp với tất cả mọi người hoạt động ở nhiều lĩnh vực từ dân văn phòng đến doanh nhân."
+    },
+    {
+      "id": "4",
+      "name": "Đồng hồ MVW 42 mm Nam ML055-01",
+      "image": "donghothoitrang4.jpg",
+      "price": "1960000",
+      "sale": "760000",
+      "category": "phụ kiện",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Sản phẩm đồng hồ mang thương hiệu MVW với nhiều mẫu mã năng động, trẻ trung nhưng không kém phần tinh tế và sang trọng, phù hợp với tất cả mọi người hoạt động ở nhiều lĩnh vực từ dân văn phòng đến doanh nhân."
+    },
+    {
+      "id": "5",
+      "name": "Đồng hồ CASIO 28 mm Nữ LTP-1215A-1ADF ",
+      "image": "donghothoitrang5.jpg",
+      "price": "1088000",
+      "sale": "690000",
+      "category": "phụ kiện",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Thương hiệu đồng hồ nổi tiếng đến từ Nhật Bản không ngừng cải tiến và cho ra mắt những dòng sản phẩm chất lượng phù hợp với nhiều đối tượng khách hàng. Những dòng sản phẩm nổi tiếng của Casio là: G-Shock với thiết kế mạnh mẽ cùng độ bền cao, Edifice thiết kế hiện đại cùng nhiều tính năng vượt trội, Sheen với thiết kế cổ điển và sang trọng,…"
+    }
+  ],
+  "bicycle": [
+    {
+      "id": "1",
+      "name": "Xe Đạp Địa Hình MTB Exotic 2612 AM 26 inch",
+      "image": "xedap1.jpg",
+      "price": "5990000",
+      "sale": "3990000",
+      "category": "xe đạp",
+      "hotdeal": 0,
+      "star": 3,
+      "description": "Các tín đồ của bộ môn thể thao địa hình không thể bỏ lỡ xe đạp địa hình MTB Exotic 2612 AM 26 inch bởi thiết kế thể thao mạnh mẽ cùng các chi tiết đạt tiêu chuẩn cao. Mẫu xe có nhiều phiên bản màu sắc bắt mắt, thời trang và còn hàng tùy theo khu vực cũng như thời điểm, ở đây bài viết được minh họa bởi phiên bản màu xám xanh."
+    },
+    {
+      "id": "2",
+      "name": "Xe Đạp Địa Hình MTB Pacific Vigilon 3.0 27.5 inch",
+      "image": "xedap2.jpg",
+      "price": "15950000",
+      "sale": "9800000",
+      "category": "xe đạp",
+      "hotdeal": 0,
+      "star": 4,
+      "description": "Với thiết kế trẻ trung cùng nhiều phiên bản màu nổi bật (tùy theo khu vực và thời điểm về hàng, bài viết được minh họa bởi phiên bản màu đen xanh lá), xe đạp địa hình MTB Pacific Vigilon 3.0 27.5 inch là một sự lựa chọn tuyệt vời cho các hoạt động ngoài trời, đặc biệt là các hoạt động chinh phục, khám phá những địa hình mới."
+    },
+    {
+      "id": "3",
+      "name": "Xe Đạp Địa Hình MTB Pacific Override 4.0 26 inch",
+      "image": "xedap3.jpg",
+      "price": "15590000",
+      "sale": "8990000",
+      "category": "xe đạp",
+      "hotdeal": 0,
+      "star": 2,
+      "description": "Xe đạp địa hình MTB Pacific OVERRIDE 4.0 26 inch sở hữu vẻ ngoài hiện đại, khỏe khoắn cùng nhiều phiên bản màu sắc để chọn lựa (tình trạng còn hàng tùy thuộc khu vực và thời điểm, bài viết sử dụng phiên bản màu đen xám để minh họa). Xe nặng 19.5 kg, phù hợp với bộ môn xe đạp địa hình đầy thách thức hay đồng hành cùng bạn trong những buổi rèn luyện thể thao."
+    },
+    {
+      "id": "4",
+      "name": "Xe Đạp Địa Hình MTB Pacific Montero 4.0 27.5 inch",
+      "image": "xedap4.jpg",
+      "price": "17690000",
+      "sale": "8590000",
+      "category": "xe đạp",
+      "hotdeal": 1,
+      "star": 5,
+      "description": "Chuột không dây A4Tech FG20 với thiết kế gọn nhẹ, khối lượng 62 gam, bạn hoàn toàn có thể làm việc trong thời gian dài mà không lo tình trạng mỏi tay."
+    },
+    {
+      "id": "5",
+      "name": "Xe Đạp Địa Hình MTB Pacific Blizzard 6.0 27.5 inch",
+      "image": "xedap5.jpg",
+      "price": "20970000",
+      "sale": "16900000",
+      "category": "xe đạp",
+      "hotdeal": 0,
+      "star": 3,
+      "description": "Xe đạp địa hình MTB Pacific BLIZZARD 6.0 27.5 inch sở hữu diện mạo thể thao năng động với nhiều phiên bản màu độc đáo (các phiên bản còn hàng tùy theo khu vực và thời điểm, bài viết được minh họa bởi phiên bản xe màu trắng), phù hợp với người dùng yêu thích bộ môn xe đạp leo núi, đam mê khám phá, chinh phục địa hình hay đi phượt thư giãn với gia đình, bạn bè."
+    }
+  ],
+  "category": [
+    {
+      "idcategory": "1",
+      "categoryName": "Tivi"
+    },
+    {
+      "idcategory": "2",
+      "categoryName": "tủ lạnh"
+    },
+    {
+      "idcategory": "3",
+      "categoryName": "Máy giặt"
+    },
+    {
+      "idcategory": "4",
+      "categoryName": "Máy nước nóng"
+    },
+    {
+      "idcategory": "5",
+      "categoryName": "Nồi cơm điện"
+    },
+    {
+      "idcategory": "6",
+      "categoryName": "Nồi chiên"
+    },
+    {
+      "idcategory": "7",
+      "categoryName": "Máy lọc nước"
+    },
+    {
+      "idcategory": "8",
+      "categoryName": "Điện thoại"
+    },
+    {
+      "idcategory": "9",
+      "categoryName": "Laptop"
+    },
+    {
+      "idcategory": "10",
+      "categoryName": "Đồ gia dụng"
+    }
+  ],
+  "orders": [
+    {
+      "id": "7d8e",
+      "customerName": "dang",
+      "customerPhoneNumber": "0814714055",
+      "customerAddress": "an giang",
+      "promoCode": "",
+      "sum": 71220000,
+      "prdInfo": {
+        "2": 3,
+        "7": 1,
+        "8": 1,
+        "10": 2,
+        "7d7e": 1
+      }
+    },
+    {
+      "id": "0d1c",
+      "customerName": "admin",
+      "customerPhoneNumber": "0814714055",
+      "customerAddress": "an giang",
+      "promoCode": "",
+      "sum": 71220000,
+      "prdInfo": {
+        "2": 3,
+        "7": 1,
+        "8": 1,
+        "10": 2,
+        "7d7e": 1
+      }
+    },
+    {
+      "id": "ea08",
+      "customerName": "NVA",
+      "customerPhoneNumber": "0987654321",
+      "customerAddress": "HN1",
+      "promoCode": "",
+      "sum": 65230000,
+      "prdInfo": {
+        "2": 3,
+        "7": 1,
+        "8": 1,
+        "10": 1,
+        "7d7e": 1
+      }
+    }
+  ]
+}

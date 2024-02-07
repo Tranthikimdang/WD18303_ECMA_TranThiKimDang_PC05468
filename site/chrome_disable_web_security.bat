@@ -1,0 +1,1 @@
+Tạo một biểu tượng ngăn cách trình duyệt trên máy tính của bạn.

@@ -1,0 +1,756 @@
+* {
+    margin: 0px;
+
+}
+
+#slide-noel {
+    position: fixed;
+    width: 100px;
+    margin-top: 180px;
+}
+
+#slide-noel1 {
+    bottom: 1px;
+    position: fixed;
+    width: 350px;
+    height: auto;
+    right: calc((100% - 1200px)/2 + 1138px);
+    z-index: 1;
+
+}
+
+#slide-noel2 {
+    position: fixed;
+    cursor: pointer;
+    width: 100px;
+    margin-top: 180px;
+    left: calc((100% - 1120px)/2 + 1200px);
+}
+
+#slide-noel4 {
+    bottom: 1px;
+    position: fixed;
+    width: 350px;
+    height: auto;
+    left: calc((100% - 1200px)/2 + 1138px);
+    z-index: 1;
+
+}
+
+#slide-cart5 {
+    position: fixed;
+    width: 210px;
+    margin-top: 300px;
+}
+
+#slide-cart6 {
+    bottom: 1px;
+    position: fixed;
+    width: 210px;
+    height: auto;
+    right: calc((100% - 1200px)/2 + 1138px);
+    z-index: 1;
+}
+
+
+.box-top-quangcao {
+    width: 100%;
+    margin: 10px auto;
+    background-color: #e01b22;
+    text-align: center;
+    margin-bottom: -5px;
+    margin-top: 0;
+
+}
+
+.box-top-quangcao img {
+    width: 73%;
+    background-color: #00a6fd;
+
+}
+
+
+.box-top-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #4a90e2;
+    color: white;
+}
+
+.box-top-logo img {
+    height: 44px;
+    width: 182px;
+
+}
+
+.button-top {
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    border: 1px solid rgba(168, 208, 255, .38);
+    border-radius: 4px;
+    padding: 6px 14px;
+    line-height: 28px;
+    margin: 0px 15px 0px 10px;
+}
+
+.div_btn_buy {
+    text-align: center;
+    /* Căn giữa nút mua ngay */
+
+}
+
+
+.btn_buy {
+    background-color: #3fcce8;
+    /* Màu nền của nút */
+    color: white;
+    /* Màu chữ trắng */
+    padding: 10px 20px;
+    /* Kích thước padding để tạo khoảng trắng xung quanh nút */
+    font-size: 16px;
+    /* Kích thước chữ */
+    border: none;
+    /* Loại bỏ đường viền */
+    cursor: pointer;
+    /* Hiển thị con trỏ khi di chuột qua nút */
+    border-radius: 5px;
+    /* Bo tròn góc nút */
+    transition: background-color 0.3s;
+    /* Hiệu ứng chuyển đổi màu nền */
+
+    /* Hiệu ứng khi di chuột qua nút */
+    &:hover {
+        background-color: #45a049;
+    }
+}
+
+/* Styles for the navbar */
+.navbar {
+    background-color: #4a90e2;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    width: auto;
+
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+
+.navbar li {
+    float: left;
+}
+
+.navbar img {
+    margin-top: -18px;
+    /* Điều chỉnh giá trị tùy thuộc vào khoảng cách mong muốn */
+}
+
+.navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    border-bottom: 3px solid #ddd;
+    /* Màu và chiều cao thanh dưới khi hover */
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    /* Orange color for emphasis */
+    text-align: center;
+    /* Center the text */
+    font-weight: bold;
+}
+
+
+
+
+.search {
+    padding: 8px 13px;
+    margin: 10px auto;
+    border-radius: 4px;
+    border: 1px solid white;
+}
+
+.box-top-logo input {
+    width: 160px;
+    font-size: 11px;
+}
+
+.box-menu {
+    background-color: #4a90e2;
+    width: 100%;
+    text-align: center;
+    color: white;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.box-menu a {
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.box-menu a:hover {
+    box-shadow: 0px 3px white;
+
+}
+
+.button-menu {
+    position: relative;
+}
+
+.menu-list {
+    display: none;
+
+    text-align: left;
+    list-style: none;
+    position: absolute;
+    background-color: white;
+    color: black;
+    left: 0;
+    top: 20px;
+    width: 100%;
+
+
+}
+
+.menu-list li {
+    display: inline-block;
+    line-height: 40px;
+    width: 150px;
+
+}
+
+/* .button-menu:hover .menu-list {
+    display: block;
+} */
+
+
+
+.menu-list li:hover {
+    display: flex;
+    line-height: 40px;
+    color: #00a6fd;
+    /* background-color: #faab08; */
+}
+
+.box-banner img {
+    width: 100%;
+}
+
+.box-banner-quangcao {
+    text-align: center;
+}
+
+.box-banner-quangcao img {
+    width: 73%;
+    padding: 15px;
+    transition: 0.5s ease;
+    border-radius: 30px;
+}
+
+.box-banner-quangcao img:hover {
+    -webkit-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
+    transition: 0.5s ease;
+}
+
+.box-danh-muc {
+    background-color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.border-blue {
+    border: 8px solid blue;
+    padding: 10px;
+    /* Khoảng cách từ nội dung đến đường viền */
+    border-radius: 8px;
+    /* Bo tròn góc 8px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Đổ bóng nhẹ */
+}
+
+/* Thêm các hiệu ứng khi hover */
+.border-blue:hover {
+    transform: scale(1.05);
+    /* Phóng to khi hover */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    /* Đổ bóng khi hover */
+}
+
+.border-red {
+    border: 8px solid #d82800;
+    padding: 10px;
+    /* Khoảng cách từ nội dung đến đường viền */
+    border-radius: 8px;
+    /* Bo tròn góc 8px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Đổ bóng nhẹ */
+}
+
+/* Thêm các hiệu ứng khi hover */
+.border-red:hover {
+    transform: scale(1.05);
+    /* Phóng to khi hover */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    /* Đổ bóng khi hover */
+}
+
+.border-green {
+    border: 8px solid #018000;
+    padding: 10px;
+    /* Khoảng cách từ nội dung đến đường viền */
+    border-radius: 8px;
+    /* Bo tròn góc 8px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Đổ bóng nhẹ */
+}
+
+/* Thêm các hiệu ứng khi hover */
+.border-green:hover {
+    transform: scale(1.05);
+    /* Phóng to khi hover */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    /* Đổ bóng khi hover */
+}
+
+
+.border-white {
+    border: 2px solid white;
+    /* Đường viền 2px màu trắng */
+    padding: 10px;
+    /* Khoảng cách từ nội dung đến đường viền */
+    border-radius: 8px;
+    /* Bo tròn góc 8px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Đổ bóng nhẹ */
+}
+
+/* Thêm các hiệu ứng khi hover */
+.border-white:hover {
+    transform: scale(1.05);
+    /* Phóng to khi hover */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    /* Đổ bóng khi hover */
+}
+
+
+.box-danh-muc img {
+    width: 73%;
+    margin-top: 20px;
+
+}
+
+.box-sanpham {
+    background-color: #E9F6FF;
+    width: 100%;
+
+}
+
+.boder-sanpham {
+    width: 73%;
+    margin: -4px auto;
+    text-align: center;
+    background-color: #E9F6FF;
+
+}
+
+.sanpham {
+    text-align: left;
+    float: left;
+    width: 16.6%;
+    height: 420px;
+    background-color: white;
+    padding: 10px;
+
+
+}
+
+.sanpham img {
+    width: 90%;
+    padding: 9px;
+    transition: transform .5s, filter 1.5s ease-in-out;
+    filter: grayscale(100%);
+
+}
+
+.sanpham img:hover {
+    filter: grayscale(0);
+    transform: scale(1.1);
+}
+
+.label-tragop {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+    font-size: 11px;
+}
+
+.label-sale {
+    display: inline-block;
+    background: linear-gradient(to right, #faab08, #d42611);
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+    font-size: 11px;
+    margin-bottom: 10px;
+
+}
+
+.sanpham .gia {
+    color: red;
+    font-size: 15px;
+    margin-bottom: 8px;
+
+}
+
+.gia del {
+    color: black;
+}
+
+.sanpham .sao {
+    color: orange;
+    font-size: 16px;
+    margin-bottom: 8px;
+    font-weight: bold;
+
+}
+
+/* CSS cho nút "Mua ngay" */
+.btn_buy {
+    background-color: #2f80ed;
+    /* Màu nền nút */
+    color: white;
+    /* Màu chữ nút */
+    padding: 10px 20px;
+    /* Kích thước padding */
+    font-size: 16px;
+    /* Kích thước chữ nút */
+    border: none;
+    /* Loại bỏ đường viền */
+    cursor: pointer;
+    /* Hiển thị con trỏ khi di chuột qua nút */
+    border-radius: 5px;
+    /* Bo tròn góc nút */
+    transition: background-color 0.3s;
+    /* Hiệu ứng chuyển đổi màu nền nút */
+    display: block;
+    /* Chuyển đổi thành phần block để căn chỉnh theo chiều ngang */
+
+    /* Hiệu ứng khi di chuột qua nút */
+    &:hover {
+        background-color: #0b57d0;
+    }
+
+    margin: 10px auto;
+    /* Căn giữa nút theo chiều ngang */
+}
+
+.div_btn_buy {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.btn_buy {
+    background-color: #2f80ed;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.btn_buy:hover {
+    background-color: #0b57d0;
+}
+
+.online-gia-re {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.box-atm {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.atm {
+    width: 73%;
+    margin: 0px auto;
+}
+
+.atm>img {
+    width: 32%;
+    padding: 5px;
+    border-radius: 10px;
+    transition: 0.3s;
+
+
+}
+
+.atm img:hover {
+    /* box-shadow: rgba(0, 0, 0, 0.24) 3px 3px 8px; */
+    transform: translate(0, -10px);
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+
+}
+
+.title {
+    text-align: left;
+    margin-bottom: 10px;
+    line-height: 60px;
+    align-content: center;
+    margin-bottom: -10px;
+
+}
+
+.title img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: -10px;
+}
+
+.box-khuyen-mai-noel {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+.khuyen-mai-noel {
+    width: 73%;
+    margin: 0px auto;
+    border: 1px solid white;
+}
+
+.khuyen-mai-noel>img {
+    margin-top: 10px;
+    width: 48.5%;
+    border-radius: 10px;
+    opacity: 1;
+    transition: 1s ease;
+    padding-left: 0px;
+    margin-left: 10px;
+}
+
+.khuyen-mai-noel img:hover {
+    opacity: 0.5;
+    transition: 1s ease;
+}
+
+.footer {
+    width: 100%;
+    float: left;
+    min-height: 280px;
+    text-align: left;
+    justify-content: center;
+    background-color: #ffa500;
+
+
+}
+
+.row {
+    padding-top: 20px;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.column {
+    padding: 5px;
+    margin: 7px;
+    width: 22%;
+    float: left;
+    color: white;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
+}
+
+.column img {
+    width: 100%;
+    margin-left: 20px;
+
+}
+
+.column iframe {
+    width: 100%;
+}
+
+.form-sale {
+    background-color: #2f80ed;
+    border-radius: 20px;
+    padding: 12px;
+    width: 100%;
+}
+
+.form-sale input {
+    margin: 6px 0px;
+    width: 95%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid yellow;
+    padding-left: 10px;
+}
+
+.form-sale button {
+    margin: 6px 0px;
+    width: 100%;
+    height: 32px;
+    border-radius: 5px;
+    border: 1px solid yellow;
+    background-color: darkgrey;
+    color: white;
+}
+
+/* Styles for the cart container */
+.cart {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles for the cart heading */
+.cart h2 {
+    font-size: 1.5em;
+    color: #333;
+    text-align: center;
+}
+
+/* Styles for buttons inside the cart container */
+.cart button {
+    background-color: #2f80ed;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Hover effect for buttons */
+.cart button:hover {
+    background-color: #2f80ed;
+}
+
+
+/* Styles for the table */
+.cart table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+/* Styles for table headers */
+.cart th {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Styles for table cells */
+.cart td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    /* Orange color for emphasis */
+    text-align: center;
+    /* Center the text */
+    font-weight: bold;
+}
+
+
+
+/* Styles for the total column */
+.cart td:last-child {
+    color: #e44d26;
+    /* Orange color for emphasis */
+}
+
+/* Styles for the images in the cart */
+.cart img {
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 5px;
+}
+
+/* Styles for the total row */
+.cart td[colspan="6"] {
+    text-align: right;
+}
+
+/* Styles for the action column */
+.cart .action {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 600px) {
+    .cart {
+        padding: 10px;
+    }
+
+    .cart table {
+        font-size: 14px;
+    }
+}
+
+
+/* Form 1 styles */
+#form1 {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+#productInfo {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Form 2 styles */
+#form2 {
+    width: 600px;
+    margin: auto;
+}
+
+#customerInfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#customerInfo input {
+    width: 48%;
+    margin-bottom: 10px;
+}

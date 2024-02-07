@@ -1,0 +1,129 @@
+/* Custom styles for the form */
+#checkoutForm {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+#checkoutForm:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+#customerInfo {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+#customerInfo input {
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+#errorMessage {
+    color: red;
+    margin-top: 10px;
+    display: none;
+}
+
+#productInfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#productInfo img {
+    max-width: 100px;
+    margin-right: 20px;
+}
+
+#productInfo .description {
+    flex: 1;
+}
+
+#productInfo p {
+    margin: 0;
+    font-size: 16px;
+}
+
+/* Button styles */
+#submitBtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#submitBtn:hover {
+    background-color: #45a049;
+    /* Một màu xanh nhẹ khi hover */
+}
+
+#customerInfo input::placeholder {
+    color: #aaa;
+    font-size: 14px;
+    transition: font-size 0.3s ease-in-out;
+}
+
+#customerInfo input:focus::placeholder {
+    font-size: 12px;
+}
+
+#productInfo img {
+    max-width: 100px;
+    margin-right: 20px;
+    transition: transform 0.3s ease-in-out;
+}
+
+#productInfo img:hover {
+    transform: scale(1.1);
+    /* Phóng to hình khi hover */
+}
+
+#checkoutForm {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+    background-color: #fff;
+    /* Màu nền trắng */
+    color: #333;
+    /* Màu chữ đen */
+}
+
+#customerInfo input {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#submitBtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+body {
+
+    background-size: cover;
+    background-position: center;
+
+}
