@@ -1,0 +1,70 @@
+/* Thêm CSS cho form */
+#formUser {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    /* Màu nền */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+}
+
+#formUser label {
+    margin-top: 10px;
+    display: block;
+    font-weight: bold;
+}
+
+#formUser input[type="text"],
+#formUser input[type="file"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+#formUser button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Thêm CSS cho bảng */
+.table {
+    margin-top: 20px;
+}
+
+.table thead th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.table tbody tr:hover {
+    background-color: #e9ecef;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #000000;
+    /* Màu chữ */
+    font-size: 30px;
+    /* Kích thước chữ */
+
+    /* Thêm đường nền dưới chữ */
+    border-bottom: 2px solid #007bff;
+    /* Độ dày và màu sắc của đường nền */
+    padding-bottom: 5px;
+    /* Khoảng cách giữa chữ và đường nền */
+}
